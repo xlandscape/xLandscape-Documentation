@@ -1,6 +1,7 @@
-# Troubleshooting - xOffFieldSoilRisk Landscape Model
+# Troubleshooting (under preparation)
 
 This page covers common error messages, what they mean, and how to resolve them.
+
 
 ## AttributeError
 
